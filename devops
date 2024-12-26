@@ -1,0 +1,4 @@
+	Implemented an automated deployment process for a web application on a Tomcat server using Jenkins and the Deploy Plugin.
+	Configured Jenkins job to build and package the application as a WAR file and set up post-build action to deploy the WAR file to the Tomcat server.
+	Reduced deployment time from 2 hours to 15 minutes, and implemented a consistent and error-free deployment process.
+	Gained expertise in Jenkins, Tomcat, Deploy Plugin, and web application deployment process.
